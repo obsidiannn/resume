@@ -3,7 +3,7 @@
 
 * 孙XX 男 1993.12
 * 邮箱 raymooonn@gmail.com
-* 微信 13176694133
+* 微信 dadonggua93
 * java后端开发 7年 （2016.6-至今）
 * https://blog.dadonggua.top
 
